@@ -1,0 +1,7 @@
+                         
+Car name:         victor
+Car model:        car3243
+Car color:        white
+Fuel type:        Desle
+transmition Type: Automatic
+                                      

@@ -1,0 +1,7 @@
+                         
+Bike name:        Suziki
+Bike model:       S6787
+Bike color:       blue
+Fuel type:        Petrol
+transmition Type: Manual
+                                       
